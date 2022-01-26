@@ -27,4 +27,6 @@ Deck: "A" , "3" , "K" , "2"
 getWinners(...) -----> [Player1, Player3]
 
 
-Se cuenta con una serie de tests de prueba Junit realizados a todas las clases de este proyecto. 
+Se cuenta con una serie de tests de prueba Junit realizados a todas las clases de este proyecto. Concretamente, el estilo arquitectónico es TDD.
+
+Se adjunta el diagrama de clases se ha realizado con el programa StarUML versión 4.1.6.
